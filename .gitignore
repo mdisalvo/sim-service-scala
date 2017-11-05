@@ -1,0 +1,11 @@
+.bloop/
+.metals/
+test.hs
+project/*
+target/*
+.idea/*
+.ensime
+.ensime_cache/
+ensime-langserver.log
+pc.stdout.log
+
